@@ -29,10 +29,10 @@ I thrive on uncovering stories hidden within raw data, crafting compelling insig
 
 - **Tools Used**:  SQL
 - **Challenges Tackled**: 
-- Analyzed ride data to uncover trends in demand, revenue, and user behavior.
-- Presented insights to optimize fleet utilization and enhance customer experience.
+   - Analyzed ride data to uncover trends in demand, revenue, and user behavior.
+   - Presented insights to optimize fleet utilization and enhance customer experience.
 - **Impact Delivered**: 
-- Provided actionable insights to improve customer satisfaction and operational efficiency.
+   - Provided actionable insights to improve customer satisfaction and operational efficiency.
 
 ---
 
