@@ -24,6 +24,18 @@ I thrive on uncovering stories hidden within raw data, crafting compelling insig
 - **Impact Delivered**: 
   - Streamlined decision-making by providing actionable insights for optimizing inventory management, reducing waste, and enhancing operational efficiency.
 
+
+
+### 🚖 Good Cabs
+
+- **Tools**: Power BI, SQL
+- **Challenges Tackled**: 
+- Analyzed ride data to uncover trends in demand, revenue, and user behavior.
+- Designed dashboards for monitoring driver performance and customer satisfaction.
+- **Impact Delivered**:
+Optimized fleet utilization and improved customer experience.
+
+
 ---
 
 ## 🔗 Let’s Collaborate
@@ -32,7 +44,7 @@ I’m constantly exploring cutting-edge methods to simplify complex data and mak
 
 - **Email**: [himanshisahu77@gmail.com]  
 - **LinkedIn**: [www.linkedin.com/in/himanshiiii] 
-- **GitHub**: [Explore My Work](https://github.com/SahuHimanshi/SahuHimanshi.git)
+- **GitHub**: [Explore More Projects](https://github.com/SahuHimanshi/SahuHimanshi.git)
 
 ---
 
