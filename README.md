@@ -25,16 +25,14 @@ I thrive on uncovering stories hidden within raw data, crafting compelling insig
   - Streamlined decision-making by providing actionable insights for optimizing inventory management, reducing waste, and enhancing operational efficiency.
 
 
-
 ### 🚖 Good Cabs
 
-- **Tools**: Power BI, SQL
+- **Tools Used**:  SQL
 - **Challenges Tackled**: 
 - Analyzed ride data to uncover trends in demand, revenue, and user behavior.
-- Designed dashboards for monitoring driver performance and customer satisfaction.
-- **Impact Delivered**:
-Optimized fleet utilization and improved customer experience.
-
+- Presented insights to optimize fleet utilization and enhance customer experience.
+- **Impact Delivered**: 
+- Provided actionable insights to improve customer satisfaction and operational efficiency.
 
 ---
 
