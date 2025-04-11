@@ -1,4 +1,4 @@
- "Hi there, I'm Himanshi Sahu 👋 | Data Enthusiast & Analyst"
+ "Hi there, I'm Himanshi Sahu 👋 | Data Analyst"
 
 I thrive on uncovering stories hidden within raw data, crafting compelling insights, and driving informed decision-making. This repository showcases my journey in the exciting realm of **data analytics**, spotlighting key projects, innovative solutions, and impactful visualizations. Let’s unravel the power of data together!
 
