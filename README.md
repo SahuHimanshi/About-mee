@@ -15,14 +15,14 @@ I thrive on uncovering stories hidden within raw data, crafting compelling insig
 
 ## 🎨 Featured Work
 
-### 🌐 Business Insights 360
+### 📺 LioJotstar
 
-- **Tools Used**: Power BI, SQL, Excel  
+- **Tools Used**:  Power BI, SQL, DAX
 - **Challenges Tackled**: 
-  - Analyzed over 1M+ rows of retail sales data to uncover critical trends in customer behavior and performance.  
-  - Designed visual dashboards to empower stakeholders with real-time metrics.  
+- Bridged data model gaps using TREATAS and USERELATIONSHIP.
+- Analyzed user growth, subscription shifts, and content consumption.
 - **Impact Delivered**: 
-  - Streamlined decision-making by providing actionable insights for optimizing inventory management, reducing waste, and enhancing operational efficiency.
+-Uncovered churn patterns, engagement gaps, and upgrade opportunities to support merger strategy.
 
 
 ### 🚖 Good Cabs
@@ -34,14 +34,15 @@ I thrive on uncovering stories hidden within raw data, crafting compelling insig
 - **Impact Delivered**: 
    - Provided actionable insights to improve customer satisfaction and operational efficiency.
 
-### 📺 LioJotstar
 
-- **Tools Used**:  Power BI, SQL, DAX
+### 🌐 Business Insights 360
+
+- **Tools Used**: Power BI, SQL, Excel  
 - **Challenges Tackled**: 
-- Bridged data model gaps using TREATAS and USERELATIONSHIP.
-- Analyzed user growth, subscription shifts, and content consumption.
+  - Analyzed over 1M+ rows of retail sales data to uncover critical trends in customer behavior and performance.  
+  - Designed visual dashboards to empower stakeholders with real-time metrics.  
 - **Impact Delivered**: 
--Uncovered churn patterns, engagement gaps, and upgrade opportunities to support merger strategy.
+  - Streamlined decision-making by providing actionable insights for optimizing inventory management, reducing waste, and enhancing operational efficiency.
 
 ---
 
