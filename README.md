@@ -34,6 +34,15 @@ I thrive on uncovering stories hidden within raw data, crafting compelling insig
 - **Impact Delivered**: 
    - Provided actionable insights to improve customer satisfaction and operational efficiency.
 
+### 📺 LioJotstar
+
+- **Tools Used**:  Power BI, SQL, DAX
+- **Challenges Tackled**: 
+- Bridged data model gaps using TREATAS and USERELATIONSHIP.
+- Analyzed user growth, subscription shifts, and content consumption.
+- **Impact Delivered**: 
+-Uncovered churn patterns, engagement gaps, and upgrade opportunities to support merger strategy.
+
 ---
 
 ## 🔗 Let’s Collaborate
