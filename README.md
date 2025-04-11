@@ -44,6 +44,21 @@ I thrive on uncovering stories hidden within raw data, crafting compelling insig
 - **Impact Delivered**: 
   - Streamlined decision-making by providing actionable insights for optimizing inventory management, reducing waste, and enhancing operational efficiency.
 
+🧾 AtliQ Sales Analytics
+- **Tools Used: Microsoft Excel**:
+
+- **Challenges Tackled**:
+
+- Investigated sales losses in Latin America driven by intuition-based decisions.
+
+- Analyzed customer behavior, product performance, and financials across regions.
+
+- **Impact Delivered**:
+
+- Enabled data-driven decision-making for global strategy.
+
+- Identified key markets, product trends, and profitability insights to guide growth.
+
 ---
 
 ## 🔗 Let’s Collaborate
